@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NZJR0VGs1SbJIdPFjYwjPIggnwIetxAsFbDgD53wz86e8WqDUMMYkSzuAEzoevxrO5aF//Owbe3K1Tlxx6KJkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Daniel\\TestProjects\\TimePeriodExercise\\TimePeriodExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielGustavsson\\.nuget\\packages\\timeperiodlibrary.net\\2.1.5\\timeperiodlibrary.net.2.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

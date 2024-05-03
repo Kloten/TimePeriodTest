@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TimePeriodExercise/1.0.0": {
+        "dependencies": {
+          "TimePeriodLibrary.NET": "2.1.5"
+        },
+        "runtime": {
+          "TimePeriodExercise.dll": {}
+        }
+      },
+      "TimePeriodLibrary.NET/2.1.5": {
+        "runtime": {
+          "lib/net7.0/Itenso.TimePeriod.dll": {
+            "assemblyVersion": "2.1.5.0",
+            "fileVersion": "2.1.5.0"
+          }
+        },
+        "resources": {
+          "lib/net7.0/de/Itenso.TimePeriod.resources.dll": {
+            "locale": "de"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimePeriodExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TimePeriodLibrary.NET/2.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2QFqfYDl7/4wQd6Bsi1Z4fZlOurnJ2OQln5YK+TlIS6c5R0AM2Tn1EEfpWob/sOe0c0luUR01r0kZE4vruX8mw==",
+      "path": "timeperiodlibrary.net/2.1.5",
+      "hashPath": "timeperiodlibrary.net.2.1.5.nupkg.sha512"
+    }
+  }
+}
